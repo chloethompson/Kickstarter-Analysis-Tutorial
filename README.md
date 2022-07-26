@@ -19,7 +19,7 @@ During the session we will take you over the powerpoint for some KNN theory fund
 
 After that we will be walking through the code live using the Kickstarter Analysis - Tutorial.ipynb notebook. 
 
-The empty notebook - Kickstarter Analysis - Empty.ipynb - is yours to code in and follow allow with the instructors. If you get stuck we're here to help debug!
+The empty notebook - Kickstarter Analysis - Empty.ipynb - is yours to code in and follow along with the instructors. If you get stuck we're here to help debug!
 
 ### Installing
 
